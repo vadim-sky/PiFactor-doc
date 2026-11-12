@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f18cbd7ed37c1c61","x":20,"y":-240,"width":180,"height":560,"color":"5","type":"group","label":"Social platforms"},
+		{"id":"b0c145a2327a846f","type":"text","text":"YouTube","x":40,"y":-220,"width":140,"height":60},
+		{"id":"d6bec07d0484e30e","type":"text","text":"Instargram","x":40,"y":-140,"width":140,"height":60},
+		{"id":"0dfa9c6027782b4b","type":"text","text":"Facebook","x":40,"y":-60,"width":140,"height":60},
+		{"id":"123070e8b36b30c2","type":"text","text":"LinkedIn","x":40,"y":35,"width":140,"height":60},
+		{"id":"e8eb5957334d07b1","type":"text","text":"Telegram","x":40,"y":125,"width":140,"height":55},
+		{"id":"f1238b45b1792a8a","type":"text","text":"WhatsApp","x":40,"y":220,"width":140,"height":60},
+		{"id":"48c318eda14cc8aa","type":"text","text":"Media","x":-560,"y":-460,"width":250,"height":60},
+		{"id":"2f7654fc7b6c5071","type":"text","text":"Web Site","x":0,"y":-380,"width":220,"height":60}
+	],
+	"edges":[
+		{"id":"28498fdf9650d7cd","fromNode":"48c318eda14cc8aa","fromSide":"bottom","toNode":"f18cbd7ed37c1c61","toSide":"left"},
+		{"id":"90b773e604d81941","fromNode":"48c318eda14cc8aa","fromSide":"right","toNode":"2f7654fc7b6c5071","toSide":"left"}
+	]
+}

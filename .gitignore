@@ -1,0 +1,10 @@
+
+# VSCode
+.vscode
+/.vscode
+/.vscode/
+
+# JetBrains
+.idea
+/.idea
+/.idea/

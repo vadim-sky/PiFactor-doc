@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6de395de43e2c3fc","x":1696,"y":-337,"width":400,"height":400,"type":"file","file":"Ideas/activity/Tourism.md"},
+		{"id":"48cfe48651d38d6c","x":1251,"y":-337,"width":400,"height":400,"type":"file","file":"Ideas/activity/Ski Rental.md"},
+		{"id":"d56b16848ec75b89","x":-560,"y":220,"width":400,"height":400,"type":"file","file":"Ideas/activity/Aqua sport.md"},
+		{"id":"dcc65f6ee24db922","x":-540,"y":-337,"width":400,"height":400,"type":"file","file":"Ideas/activity/Bicycle.md"},
+		{"id":"fc0b1b19eff08c5d","x":-40,"y":-337,"width":400,"height":400,"type":"file","file":"Ideas/activity/Farm Activity.md"},
+		{"id":"a4066b2063172151","x":-40,"y":220,"width":400,"height":400,"type":"file","file":"Ideas/activity/Horse therapy.md"}
+	],
+	"edges":[]
+}
