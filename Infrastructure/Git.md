@@ -1,3 +1,3 @@
-#infrastructure 
+#infrastructure #git
 
-Git project 
+[x] Git project setup
